@@ -1,3 +1,4 @@
+//O(n) time
 class Factorial(){
         
         int factorial(int n) {
