@@ -1,4 +1,4 @@
-public class binary {
+public class Binary {
 
     void print_binary(int n){
         if(n>=2){
